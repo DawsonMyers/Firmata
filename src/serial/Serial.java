@@ -480,6 +480,6 @@ public class Serial implements SerialPortEventListener, jssc.SerialPortEventList
 
   @Override
   public void serialEvent(jssc.SerialPortEvent serialPortEvent) {
-    
+
   }
 }
